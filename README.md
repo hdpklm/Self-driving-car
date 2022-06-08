@@ -13,3 +13,7 @@ The code will appear as the course progresses and will be divided into parts as 
   7. Visualizing neural networks
   8. Optimizing neural networks
   9. Fine-tuning
+
+
+Clone from [https://github.com/gniziemazity/Self-driving-car.git]
+and the best brain is in file bestBrain.json
